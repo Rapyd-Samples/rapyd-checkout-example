@@ -1,4 +1,4 @@
-# RapydCheckoutExample
+# Rapyd Checkout Example
 
 To start your Phoenix server:
 
